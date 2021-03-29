@@ -1,0 +1,11 @@
+C:\Users\worker\source\repos\data save\data save\bin\Release\data save.exe.config
+C:\Users\worker\source\repos\data save\data save\bin\Release\data save.exe
+C:\Users\worker\source\repos\data save\data save\bin\Release\data save.pdb
+C:\Users\worker\source\repos\data save\data save\obj\Release\data_save.Client_Form.resources
+C:\Users\worker\source\repos\data save\data save\obj\Release\data_save.Product_Form.resources
+C:\Users\worker\source\repos\data save\data save\obj\Release\data_save.Properties.Resources.resources
+C:\Users\worker\source\repos\data save\data save\obj\Release\data_save.Selling_Form.resources
+C:\Users\worker\source\repos\data save\data save\obj\Release\data save.csproj.GenerateResource.cache
+C:\Users\worker\source\repos\data save\data save\obj\Release\data save.csproj.CoreCompileInputs.cache
+C:\Users\worker\source\repos\data save\data save\obj\Release\data save.exe
+C:\Users\worker\source\repos\data save\data save\obj\Release\data save.pdb
